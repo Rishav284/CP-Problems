@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 4 |
+| 2 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
-- [greedy](#greedy) (1)
+- [brute force](#brute-force) (2)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (1)
 - [math](#math) (1)
 
@@ -24,12 +24,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/1368/A%20-%20C%2B%3D/solution.java) |
+| 1770A | [Koxia and Whiteboards](https://codeforces.com/contest/1770/problem/A) | 1000 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/1770/A%20-%20Koxia%20and%20Whiteboards/solution.java) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/1368/A%20-%20C%2B%3D/solution.java) |
+| 1770A | [Koxia and Whiteboards](https://codeforces.com/contest/1770/problem/A) | 1000 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/1770/A%20-%20Koxia%20and%20Whiteboards/solution.java) |
 
 ### implementation
 
