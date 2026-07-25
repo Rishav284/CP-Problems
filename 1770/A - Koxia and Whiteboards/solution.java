@@ -11,24 +11,15 @@ public class KoxiaAndWhiteboards {
                 int n=in.nextInt();
                 int m=in.nextInt();
                 ArrayList<Integer> a=new ArrayList<>();
-                ArrayList<Integer> b=new ArrayList<>();
-                long total=0;
-                for(int i=0;i<n;i++){
-                    a.add(in.nextInt());
-                }
-                for(int i=0;i<m;i++){
-                    b.add(in.nextInt());
-                }
+                for(int i=0;i<n+m-1;i++) a.add(in.nextInt());
+                long ans=in.nextInt();
                 Collections.sort(a);
-                long ans=0;
                 int i=0;
-                while(i<m){
-                    a.set(0,b.get(i));
-                    Collections.sort(a);
+                while(i<n-1){
+                    ans+=a.get(a.size()-1-i);
                     i++;
                 }
-                for(int j=0;j<n;j++) total+=a.get(j);
-                System.out.println(total);
+                System.out.println(ans);
             }
         }
 }
