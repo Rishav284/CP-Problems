@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 5 |
+| 4 | 6 |
 
 ---
 
@@ -14,6 +14,7 @@
 
 - [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (2)
+- [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (1)
 - [math](#math) (1)
@@ -32,6 +33,12 @@
 |---|---------|------------|----------|
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/1368/A%20-%20C%2B%3D/solution.java) |
 | 1770A | [Koxia and Whiteboards](https://codeforces.com/contest/1770/problem/A) | 1000 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/1770/A%20-%20Koxia%20and%20Whiteboards/solution.java) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2250/B%20-%20String%20Construction/solution.java) |
 
 ### greedy
 
