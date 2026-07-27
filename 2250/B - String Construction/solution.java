@@ -1,49 +1,48 @@
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
  
-public class StringConstruction {
-    public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-            int t = in.nextInt();
-            while (t-- > 0) {
-                int n = in.nextInt();
-                int k=in.nextInt();
-                if(k==n-1) {
-                    System.out.println(-1);
-                }
-                else {
-                    int num0=n/2;
-                    int num1=n-num0;
-                    int tblock=n-1-k;
-                    int block1=(tblock+2)/2;
-                    int block0=(tblock+1)/2;
-                    boolean startWithOne = true;
-                    if (num1 < block1 || num0 < block0) {
-                        startWithOne = false;
-                        block1 = (tblock + 1) / 2;
-                        block0 = (tblock + 2) / 2;
-                    }
-                    StringBuilder sb = new StringBuilder();
-                    boolean curr = startWithOne;
-                    for (int i = 0; i <= tblock; i++) {
-                        if (curr) {
-                            int count = num1 / block1;
-                            num1 -= count;
-                            block1--;
-                            for (int j = 0; j < count; j++) {
-                                sb.append('1');
-                            }
-                        } else {
-                            int count = num0 / block0;
-                            num0 -= count;
-                            block0--;
-                            for (int l = 0; l < count; l++) {
-                                sb.append('0');
-                            }
-                        }
-                        curr = !curr;
-                    }
-                    System.out.println(sb.toString());
+public class StringConstructor {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
+        int t=Integer.parseInt(br.readLine().trim());
+        while (t-->0){
+            StringTokenizer in = new StringTokenizer(br.readLine());
+            int n=Integer.parseInt(in.nextToken());
+            int k=Integer.parseInt(in.nextToken());
+            StringBuilder sb=new StringBuilder();
+            if(k>n-2){
+                System.out.println(-1);
+                continue;
             }
+            int numOf1=(k+1)/2+1;
+            int numOf0=(k/2)+1;
+            int i=0;
+            if(k<(n-2)){
+                i=1;
+                sb.append(0);
+            }
+            while(numOf1-->0 && i<n) {
+                i++;
+                sb.append(1);
+            }
+            while(numOf0-->0 && i<n) {
+                i++;
+                sb.append(0);
+            }
+            int num=1;
+            while (i<n){
+                i++;
+                if(num==1){
+                    sb.append(1);
+                    num=0;
+                }else{
+                    sb.append(0);
+                    num=1;
+                }
+            }
+            System.out.println(sb.toString());
         }
     }
 }
