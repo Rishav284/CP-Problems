@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 6 |
+| 5 | 8 |
 
 ---
 
@@ -15,9 +15,11 @@
 - [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (2)
-- [implementation](#implementation) (1)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (2)
 - [math](#math) (1)
+- [sortings](#sortings) (1)
+- [strings](#strings) (1)
 
 ---
 
@@ -44,6 +46,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/1368/A%20-%20C%2B%3D/solution.java) |
 | 1770A | [Koxia and Whiteboards](https://codeforces.com/contest/1770/problem/A) | 1000 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/1770/A%20-%20Koxia%20and%20Whiteboards/solution.java) |
 
@@ -51,6 +54,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/1368/A%20-%20C%2B%3D/solution.java) |
 
 ### math
@@ -58,6 +62,18 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/1368/A%20-%20C%2B%3D/solution.java) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 
 ---
 
