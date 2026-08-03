@@ -6,20 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 10 |
+| 12 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (3)
-- [brute force](#brute-force) (2)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [brute force](#brute-force) (3)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
 - [greedy](#greedy) (5)
 - [implementation](#implementation) (3)
-- [math](#math) (5)
-- [number theory](#number-theory) (1)
+- [math](#math) (6)
+- [number theory](#number-theory) (2)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
 
@@ -39,11 +39,13 @@
 |---|---------|------------|----------|
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/1368/A%20-%20C%2B%3D/solution.java) |
 | 1770A | [Koxia and Whiteboards](https://codeforces.com/contest/1770/problem/A) | 1000 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/1770/A%20-%20Koxia%20and%20Whiteboards/solution.java) |
+| 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.java) |
 
 ### constructive algorithms
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.java) |
 | 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2250/B%20-%20String%20Construction/solution.java) |
 
 ### dp
@@ -77,6 +79,7 @@
 | 1294A | [Collecting Coins](https://codeforces.com/contest/1294/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/1294/A%20-%20Collecting%20Coins/solution.java) |
 | 1358A | [Park Lighting](https://codeforces.com/contest/1358/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/1358/A%20-%20Park%20Lighting/solution.java) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/1368/A%20-%20C%2B%3D/solution.java) |
+| 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.java) |
 | 2179C | [Blackslex and Number Theory](https://codeforces.com/contest/2179/problem/C) | 1100 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2179/C%20-%20Blackslex%20and%20Number%20Theory/solution.java) |
 | 2241D | [An Alternative Way](https://codeforces.com/contest/2241/problem/D) | 1100 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2241/D%20-%20An%20Alternative%20Way/solution.java) |
 
@@ -84,6 +87,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.java) |
 | 2179C | [Blackslex and Number Theory](https://codeforces.com/contest/2179/problem/C) | 1100 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2179/C%20-%20Blackslex%20and%20Number%20Theory/solution.java) |
 
 ### sortings
