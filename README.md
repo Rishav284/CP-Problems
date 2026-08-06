@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 10 |
+| 15 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (4)
+- [Uncategorized](#uncategorized) (5)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
@@ -33,6 +33,7 @@
 | 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.java) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
 | 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.java) |
+| 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2252/B%20-%20Always%20Changing/solution.java) |
 
 ### brute force
 
