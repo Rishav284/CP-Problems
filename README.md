@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 10 |
+| 20 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (7)
+- [Uncategorized](#uncategorized) (8)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
@@ -36,6 +36,7 @@
 | 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2252/B%20-%20Always%20Changing/solution.java) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
 
 ### brute force
 
