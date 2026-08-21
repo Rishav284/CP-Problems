@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 21 | 10 |
+| 22 | 11 |
 
 ---
 
@@ -15,8 +15,9 @@
 - [Uncategorized](#uncategorized) (9)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (2)
+- [data structures](#data-structures) (1)
 - [dp](#dp) (1)
-- [greedy](#greedy) (8)
+- [greedy](#greedy) (9)
 - [implementation](#implementation) (3)
 - [math](#math) (7)
 - [number theory](#number-theory) (2)
@@ -54,6 +55,12 @@
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.java) |
 | 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2250/B%20-%20String%20Construction/solution.java) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2210B | [Simply Sitting on Chairs](https://codeforces.com/contest/2210/problem/B) | 900 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2210/B%20-%20Simply%20Sitting%20on%20Chairs/solution.java) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
@@ -69,6 +76,7 @@
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/1368/A%20-%20C%2B%3D/solution.java) |
 | 1770A | [Koxia and Whiteboards](https://codeforces.com/contest/1770/problem/A) | 1000 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/1770/A%20-%20Koxia%20and%20Whiteboards/solution.java) |
 | 2204B | [Right Maximum](https://codeforces.com/contest/2204/problem/B) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2204/B%20-%20Right%20Maximum/solution.java) |
+| 2210B | [Simply Sitting on Chairs](https://codeforces.com/contest/2210/problem/B) | 900 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2210/B%20-%20Simply%20Sitting%20on%20Chairs/solution.java) |
 | 2216A | [Course Wishes](https://codeforces.com/contest/2216/problem/A) | 900 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2216/A%20-%20Course%20Wishes/solution.java) |
 | 2229B | [Absolute Cinema](https://codeforces.com/contest/2229/problem/B) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2229/B%20-%20Absolute%20Cinema/solution.java) |
 | 2241D | [An Alternative Way](https://codeforces.com/contest/2241/problem/D) | 1100 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2241/D%20-%20An%20Alternative%20Way/solution.java) |
