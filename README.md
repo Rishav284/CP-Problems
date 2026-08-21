@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 11 |
+| 23 | 11 |
 
 ---
 
@@ -14,13 +14,13 @@
 
 - [Uncategorized](#uncategorized) (9)
 - [brute force](#brute-force) (3)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (9)
 - [implementation](#implementation) (3)
 - [math](#math) (7)
-- [number theory](#number-theory) (2)
+- [number theory](#number-theory) (3)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
 
@@ -53,6 +53,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.java) |
+| 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.java) |
 | 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2250/B%20-%20String%20Construction/solution.java) |
 
 ### data structures
@@ -107,6 +108,7 @@
 |---|---------|------------|----------|
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.java) |
 | 2179C | [Blackslex and Number Theory](https://codeforces.com/contest/2179/problem/C) | 1100 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2179/C%20-%20Blackslex%20and%20Number%20Theory/solution.java) |
+| 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.java) |
 
 ### sortings
 
