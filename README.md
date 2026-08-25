@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 12 |
+| 25 | 12 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [Uncategorized](#uncategorized) (9)
 - [brute force](#brute-force) (3)
-- [constructive algorithms](#constructive-algorithms) (3)
+- [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (9)
@@ -55,6 +55,7 @@
 |---|---------|------------|----------|
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.java) |
 | 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.java) |
+| 2247B | [Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) | 900 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2247/B%20-%20Yet%20Another%20Constructive/solution.java) |
 | 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2250/B%20-%20String%20Construction/solution.java) |
 
 ### data structures
