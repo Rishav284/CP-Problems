@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 12 |
+| 27 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (10)
+- [Uncategorized](#uncategorized) (11)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (1)
@@ -41,6 +41,7 @@
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
 | 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2257/B%20-%20Gigantomachy/solution.java) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.java) |
+| 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.java) |
 
 ### brute force
 
