@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 12 |
+| 28 | 12 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
-- [greedy](#greedy) (9)
+- [greedy](#greedy) (10)
 - [implementation](#implementation) (4)
 - [math](#math) (7)
 - [number theory](#number-theory) (3)
@@ -80,6 +80,7 @@
 | 1358A | [Park Lighting](https://codeforces.com/contest/1358/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/1358/A%20-%20Park%20Lighting/solution.java) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/1368/A%20-%20C%2B%3D/solution.java) |
 | 1770A | [Koxia and Whiteboards](https://codeforces.com/contest/1770/problem/A) | 1000 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/1770/A%20-%20Koxia%20and%20Whiteboards/solution.java) |
+| 2188B | [Seats](https://codeforces.com/contest/2188/problem/B) | 1000 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2188/B%20-%20Seats/solution.java) |
 | 2204B | [Right Maximum](https://codeforces.com/contest/2204/problem/B) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2204/B%20-%20Right%20Maximum/solution.java) |
 | 2210B | [Simply Sitting on Chairs](https://codeforces.com/contest/2210/problem/B) | 900 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2210/B%20-%20Simply%20Sitting%20on%20Chairs/solution.java) |
 | 2216A | [Course Wishes](https://codeforces.com/contest/2216/problem/A) | 900 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2216/A%20-%20Course%20Wishes/solution.java) |
