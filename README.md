@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 12 |
+| 29 | 12 |
 
 ---
 
@@ -17,9 +17,9 @@
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
-- [greedy](#greedy) (10)
+- [greedy](#greedy) (11)
 - [implementation](#implementation) (4)
-- [math](#math) (7)
+- [math](#math) (8)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (2)
 - [strings](#strings) (2)
@@ -86,6 +86,7 @@
 | 2216A | [Course Wishes](https://codeforces.com/contest/2216/problem/A) | 900 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2216/A%20-%20Course%20Wishes/solution.java) |
 | 2229B | [Absolute Cinema](https://codeforces.com/contest/2229/problem/B) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2229/B%20-%20Absolute%20Cinema/solution.java) |
 | 2241D | [An Alternative Way](https://codeforces.com/contest/2241/problem/D) | 1100 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2241/D%20-%20An%20Alternative%20Way/solution.java) |
+| 2247C | [Inversion of a Subsequence](https://codeforces.com/contest/2247/problem/C) | 1100 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2247/C%20-%20Inversion%20of%20a%20Subsequence/solution.java) |
 
 ### implementation
 
@@ -107,6 +108,7 @@
 | 2179C | [Blackslex and Number Theory](https://codeforces.com/contest/2179/problem/C) | 1100 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2179/C%20-%20Blackslex%20and%20Number%20Theory/solution.java) |
 | 2229B | [Absolute Cinema](https://codeforces.com/contest/2229/problem/B) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2229/B%20-%20Absolute%20Cinema/solution.java) |
 | 2241D | [An Alternative Way](https://codeforces.com/contest/2241/problem/D) | 1100 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2241/D%20-%20An%20Alternative%20Way/solution.java) |
+| 2247C | [Inversion of a Subsequence](https://codeforces.com/contest/2247/problem/C) | 1100 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2247/C%20-%20Inversion%20of%20a%20Subsequence/solution.java) |
 
 ### number theory
 
