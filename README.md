@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 12 |
+| 30 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (11)
+- [Uncategorized](#uncategorized) (12)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (1)
@@ -42,6 +42,7 @@
 | 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2257/B%20-%20Gigantomachy/solution.java) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.java) |
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.java) |
+| 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.java) |
 
 ### brute force
 
