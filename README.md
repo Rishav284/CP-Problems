@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 34 | 12 |
+| 35 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (16)
+- [Uncategorized](#uncategorized) (17)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (1)
@@ -47,6 +47,7 @@
 | 2260C | [Maximize XOR, Minimize Operations](https://codeforces.com/contest/2260/problem/C) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2260/C%20-%20Maximize%20XOR%2C%20Minimize%20Operations/solution.java) |
 | 2263C1 | [Floor of MEX (Easy Version)](https://codeforces.com/contest/2263/problem/C1) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2263/C1%20-%20Floor%20of%20MEX%20(Easy%20Version)/solution.java) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.java) |
+| 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.java) |
 
 ### brute force
 
