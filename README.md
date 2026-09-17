@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 12 |
+| 36 | 12 |
 
 ---
 
@@ -14,14 +14,14 @@
 
 - [Uncategorized](#uncategorized) (17)
 - [brute force](#brute-force) (3)
-- [constructive algorithms](#constructive-algorithms) (4)
+- [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (11)
 - [implementation](#implementation) (4)
 - [math](#math) (8)
 - [number theory](#number-theory) (3)
-- [sortings](#sortings) (2)
+- [sortings](#sortings) (3)
 - [strings](#strings) (2)
 - [two pointers](#two-pointers) (1)
 
@@ -62,6 +62,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.java) |
+| 2191B | [MEX Reordering](https://codeforces.com/contest/2191/problem/B) | 1000 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2191/B%20-%20MEX%20Reordering/solution.java) |
 | 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.java) |
 | 2247B | [Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) | 900 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2247/B%20-%20Yet%20Another%20Constructive/solution.java) |
 | 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2250/B%20-%20String%20Construction/solution.java) |
@@ -130,6 +131,7 @@
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 2179C | [Blackslex and Number Theory](https://codeforces.com/contest/2179/problem/C) | 1100 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2179/C%20-%20Blackslex%20and%20Number%20Theory/solution.java) |
+| 2191B | [MEX Reordering](https://codeforces.com/contest/2191/problem/B) | 1000 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2191/B%20-%20MEX%20Reordering/solution.java) |
 
 ### strings
 
