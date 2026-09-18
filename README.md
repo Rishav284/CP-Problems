@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 12 |
+| 37 | 12 |
 
 ---
 
@@ -14,10 +14,10 @@
 
 - [Uncategorized](#uncategorized) (17)
 - [brute force](#brute-force) (3)
-- [constructive algorithms](#constructive-algorithms) (5)
+- [constructive algorithms](#constructive-algorithms) (6)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
-- [greedy](#greedy) (11)
+- [greedy](#greedy) (12)
 - [implementation](#implementation) (4)
 - [math](#math) (8)
 - [number theory](#number-theory) (3)
@@ -66,6 +66,7 @@
 | 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.java) |
 | 2247B | [Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) | 900 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2247/B%20-%20Yet%20Another%20Constructive/solution.java) |
 | 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | Unrated | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2250/B%20-%20String%20Construction/solution.java) |
+| 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2259/C%20-%20101/solution.java) |
 
 ### data structures
 
@@ -94,6 +95,7 @@
 | 2229B | [Absolute Cinema](https://codeforces.com/contest/2229/problem/B) | 800 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2229/B%20-%20Absolute%20Cinema/solution.java) |
 | 2241D | [An Alternative Way](https://codeforces.com/contest/2241/problem/D) | 1100 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2241/D%20-%20An%20Alternative%20Way/solution.java) |
 | 2247C | [Inversion of a Subsequence](https://codeforces.com/contest/2247/problem/C) | 1100 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2247/C%20-%20Inversion%20of%20a%20Subsequence/solution.java) |
+| 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [Java 21](https://github.com/Rishav284/CP-Problems/blob/HEAD/2259/C%20-%20101/solution.java) |
 
 ### implementation
 
